@@ -232,3 +232,66 @@ fraud-detection-transaction-risk/
 │
 └── dashboard/
     └── fraud-risk-dashboard
+
+## Key Takeaways
+
+The project demonstrates an end-to-end approach to fraud analytics:
+
+**Data → Patterns → Features → Models → Evaluation → Risk Decisions**
+
+The key focus is not simply achieving high predictive accuracy, but understanding the trade-off between **fraud detection and false alerts** and translating machine-learning outputs into practical risk decisions.
+
+---
+
+## Limitations
+
+Several limitations should be considered:
+
+- Historical transaction data may not fully represent current fraud patterns.
+- Fraud datasets can contain substantial class imbalance.
+- Model performance depends on the quality and representativeness of the available data.
+- False positives can create operational costs.
+- Fraud patterns can change over time.
+- Model predictions should be validated before being used in real-world financial systems.
+
+---
+
+## Future Improvements
+
+Potential extensions include:
+
+- Hyperparameter optimization
+- Cross-validation
+- Class-imbalance techniques
+- Threshold optimization
+- Time-based validation
+- Explainable AI techniques
+- Model monitoring
+- Real-time fraud scoring
+- Operational-cost modelling
+- Advanced ensemble models
+
+---
+
+## Author
+
+**Tanmay Gupta**
+
+B.Tech Computer Science Engineering  
+LJ University, Ahmedabad
+
+**Email:** guptatanmay2806@gmail.com
+
+**Portfolio:** [Add your portfolio URL]
+
+**LinkedIn:** [Add your LinkedIn URL]
+
+**GitHub:** [Guptatanmay28](https://github.com/Guptatanmay28)
+
+---
+
+## Disclaimer
+
+This project is intended for **academic, educational and portfolio purposes**.
+
+The models and risk classifications presented in this repository are not intended to replace professional fraud investigation systems or financial-institution risk controls.
