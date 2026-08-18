@@ -4,7 +4,7 @@ A machine-learning project focused on identifying potentially fraudulent transac
 
 ## Project Overview
 
-Financial fraud detection is a classification problem where the goal is to identify suspicious transactions while minimizing unnecessary false alarms.
+Financial fraud detection is a classification problem where the goal is to identify suspicious transactions while minimizing unnecessary false alerts.
 
 This project develops an end-to-end fraud detection workflow covering:
 
@@ -177,61 +177,30 @@ The dashboard focuses on:
 
 ## Tools & Technologies
 
-**Programming & Analysis**
+### Programming & Analysis
 
 - Python
 - Pandas
 - NumPy
 
-**Machine Learning**
+### Machine Learning
 
 - Scikit-learn
 - Logistic Regression
 - Random Forest
 
-**Visualization**
+### Visualization
 
 - Matplotlib
 - Data Visualization
 - Interactive Dashboard
 
-**Development**
+### Development
 
 - Jupyter Notebook
 - GitHub
 
 ---
-
-## Project Structure
-
-```text
-fraud-detection-transaction-risk/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── fraud_detection_analysis.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   └── models.py
-│
-├── models/
-│   └── model_results/
-│
-├── visuals/
-│   ├── eda/
-│   ├── model_evaluation/
-│   └── feature_importance/
-│
-└── dashboard/
-    └── fraud-risk-dashboard
 
 ## Key Takeaways
 
